@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SriRahayu_1202150373_Modul4</string>
+    <string name="ready_to_start">List Nama Mahasiswa</string>
+    <string name="start_task">Mulai AsyncTask</string>
+    <string-array name="namaMhs">
+        <item>Sri Rahayu</item>
+        <item>Fitriani</item>
+        <item>Nyoman Diah Kumara Dewi</item>
+        <item>Ida Ayu Gede Anila Sukma Murti</item>
+        <item>Devalia Mesha</item>
+        <item>Gabriella Aprilliana</item>
+        <item>Ike Wahyuning Wulandari</item>
+        <item>Yudha Bhakti Islami</item>
+        <item>Karina Faulia Nurul Azmi</item>
+        <item>Zulkarnain Zahlan</item>
+        <item>Julian Dwi Nugraha</item>
+        <item>M.Rasyid Ridho Tobing</item>
+        <item>Fajar Bagaskara</item>
+    </string-array>
+</resources>
